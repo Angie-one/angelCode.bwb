@@ -1,5 +1,5 @@
 body {
-    background-color: #e5e5ea;
+    background-color: #9e9eab;
 }
 
 h1 {
@@ -25,9 +25,16 @@ h1 {
 #T2 {
     margin: 0;
     padding: 0;
-
+    width: 100%;
 }
 
+#C1 #C2 {
+    width: 90%;
+}
+
+#C2 {
+    text-align: right;
+}
 footer {
     text-align: center;
 }
