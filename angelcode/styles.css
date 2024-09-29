@@ -28,6 +28,10 @@ h1 {
     width: 100%;
 }
 
+img {
+    width: 50%;
+}
+
 #C1 #C2 {
     width: 90%;
 }
