@@ -25,10 +25,15 @@ h1 {
 #T2 {
     margin: 0;
     padding: 0;
+    table-layout: fixed;
     width: 100%;
 }
 
-img {
+td img {
+    display: table-cell;
+    vertical-align: middle;
+      
+    
     width: 50%;
 }
 
