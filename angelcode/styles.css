@@ -6,3 +6,29 @@ h1 {
     color: #4567b7;
 }
 
+#T1 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   
+}
+
+#angie {
+    text-align: center;
+    text-size-adjust: 90px;
+}
+
+#SE {
+    text-align: right;
+}
+
+#T2 {
+    margin: 0;
+    padding: 0;
+
+}
+
+footer {
+    text-align: center;
+}
+
