@@ -5,6 +5,42 @@ body {
 h1 {
     color: #4567b7;
 }
+/*
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+td {
+    padding: 15px;
+    vertical-align: top;
+    border: 1px solid #ddd; /* Optional: adds a border around cells */
+}
+
+/* Specific styles for adjusting column widths */
+#T1 td:nth-child(1),
+#T1 td:nth-child(3),
+#T2 td:nth-child(1),
+#T2 td:nth-child(3) {
+    width: 25%; /* Side cells take up 25% of the table width */
+}
+
+#T1 td:nth-child(2),
+#T2 td:nth-child(2) {
+    width: 50%; /* Middle cell takes up 50% of the table width */
+}
+
+/* Styling for images to fit correctly */
+#img img {
+    max-width: 50%;
+    height: 50%;
+    
+}
+
+img #CV {
+    width: 50%;
+}*/
 
 #T1 {
     margin: 0;
@@ -43,7 +79,7 @@ td img {
 
 #C2 {
     text-align: right;
-}
+} 
 footer {
     text-align: center;
 }
