@@ -1,0 +1,105 @@
+body {
+    background-color: #9e9eab;
+}
+
+h1 {
+    color: #4567b7;
+}/*
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+td {
+    padding: 15px;
+    vertical-align: top;
+    border: 1px solid #ddd; /* Optional: adds a border around cells */
+
+
+/* Specific styles for adjusting column widths */
+#T1 td:nth-child(1),
+#T1 td:nth-child(3),
+#T2 td:nth-child(1),
+#T2 td:nth-child(3) {
+    width: 25%; /* Side cells take up 25% of the table width */
+}
+
+#T1 td:nth-child(2),
+#T2 td:nth-child(2) {
+    width: 50%; /* Middle cell takes up 50% of the table width */
+}
+
+/* Styling for images to fit correctly */
+#img img {
+    max-width: 50%;
+    height: 50%;
+    width: 50%;
+    display: block; /* Allows margin auto to work */
+    margin: auto; /* Centers the image horizontally */
+    max-width: 100%; /* Ensures the image doesn’t overflow the cell */
+    height: auto; /* Maintains the image aspect ratio */
+}
+#img {
+    text-align: center; /* Horizontally centers content within the cell */
+    vertical-align: middle; /* Vertically centers content if cell height is larger */
+}
+
+/* Center the image itself 
+#img img {
+    display: block; /* Allows margin auto to work 
+    margin: auto; /* Centers the image horizontally 
+    max-width: 100%; /* Ensures the image doesn’t overflow the cell 
+    height: auto; /* Maintains the image aspect ratio 
+}
+
+/*
+td #img {
+    margin:;
+    padding: 10;
+}*/
+
+#CV {
+    width: 50%;
+    height: 50%;
+}
+
+#T1 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   
+}
+
+#angie {
+    text-align: center;
+    width: 60%;
+}
+
+#SE {
+    text-align: right;
+}
+
+#T2 {
+    margin: 0;
+    padding: 0;
+    table-layout: fixed;
+    width: 100%;
+}
+
+td img {
+    display: table-cell;
+    vertical-align: middle;
+    width: 50%;
+}
+
+#C1 #C2 {
+    width: 90%;
+}
+
+#C2 {
+    text-align: right;
+} 
+footer {
+    text-align: center;
+}
